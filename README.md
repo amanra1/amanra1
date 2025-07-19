@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-🔭 I’m Currently learning Flutter.<br>
+🔭 I'm now learning about my brain.<br>
 📫 How to reach me: <a style="text-decoration:none;color:lightgreen" href="mailto:papadoesnotrespond">Mail</a><br>
 
 <img align="right"  alt="Coding" width="250" height="250" src="https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif"/>
